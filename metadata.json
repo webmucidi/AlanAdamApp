@@ -1,0 +1,5 @@
+{
+  "name": "Alım Gücü Kıyaslama Aracı",
+  "description": "Yıllar, ülkeler ve mekanlar bazında alım gücünü kıyaslayan interaktif bir araç.",
+  "requestFramePermissions": []
+}
